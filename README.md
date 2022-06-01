@@ -20,7 +20,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/jkratz55/concurrentmap-go"
+	"github.com/jkratz55/concurrent-map"
 )
 
 func main() {
